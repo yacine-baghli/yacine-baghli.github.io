@@ -1,7 +1,7 @@
 ---
 title: IA Facial Recognition
 publishDate: 2020-03-02 00:00:00
-img: /assets/Facial-recognition-Matlab.png
+img: /assets/facial-recognition-matlab.png
 img_alt: Image AI Matlab
 description: |
   I created my first AI on Matlab!

@@ -1,7 +1,7 @@
 ---
 title: Volunteer at Arkenciel
 publishDate: 2020-03-02 00:00:00
-img: /assets/Arkenciel-image.jpeg
+img: /assets/arkenciel-image.jpeg
 img_alt: Arkenciel Image
 description: |
   Homework help for high school and middle school students
