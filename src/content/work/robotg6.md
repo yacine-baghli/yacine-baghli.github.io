@@ -1,7 +1,7 @@
 ---
 title: The conception of the Robot-G6
 publishDate: 2020-03-02 00:00:00
-img: /assets/robot-g6.gng
+img: /assets/robot-g6.png
 img_alt: RobotG6 Image
 description: |
   We created a robot from A to Z!
