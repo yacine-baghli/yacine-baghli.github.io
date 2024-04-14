@@ -8,7 +8,10 @@ description: |
 tags:
   - Design
   - Dev
-  - Competition
+  - Network
+  - Conception
+  - Testing
+
 ---
 
 ## The Eco Shell Marathon
