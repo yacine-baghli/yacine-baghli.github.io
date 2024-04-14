@@ -1,16 +1,17 @@
 ---
 title: Eco Motion Team Android App
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/stock-1.jpeg
 img_alt: EMT Image
 description: |
   I designed an Android application for the "PolyWatt" dashboard!
 tags:
-  - Design
   - Dev
+  - Electrical engineering
   - Network
   - Conception
-  - Testing
+  - Design
+
 
 ---
 
