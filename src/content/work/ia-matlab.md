@@ -11,7 +11,7 @@ tags:
   - User Testing
 ---
 ### Objective:
-As part of a module attended at Polytech and following the completion of the Matlab proficiency certificate, we had the opportunity to apply linear algebra concepts combined with image processing notions to perform facial recognition in Matlab.
+As part of a module attended at Polytech Nancy and following the completion of the Matlab proficiency certificate, we had the opportunity to apply linear algebra concepts combined with image processing notions to perform facial recognition in Matlab.
 
 ### Principle of Face Recognition:
 The goal is to determine a person's identity from an image of their face. For this purpose, a database of faces is used, where each face is associated with a feature vector. These features are assumed to be invariant for the same person and different from one person to another. Recognition involves comparing the feature vector of the face to be recognized with those in the database to find the most similar face.
@@ -41,3 +41,5 @@ We use the reconstruction error to verify if an image is a face or not. We calcu
 We could have used color images by representing pixels with three values (red, green, blue), but the concept and methodology remain the same.
 
 And thus, I created my first facial recognition AI from a training database. This project allowed me to better understand the concept of facial recognition and reinforced my knowledge of image processing and linear algebra.
+
+Here is [the code](https://github.com/yacine-baghli/IA-Facial-Recognition-Matlab.github.io/tree/main) of this project if you are interested.
