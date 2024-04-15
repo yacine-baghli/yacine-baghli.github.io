@@ -1,15 +1,15 @@
 ---
 title: TicTacToe 2.0
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/tictactoe.jpg
 img_alt: TicTacToe Image
 description: |
-  On a créé une version 2.0 du TicTacToe à jouer en réseau!
+  We've created a 2.0 version of TicTacToe for network play!
 tags:
   - Design
   - Dev
   - User Testing
 ---
 
-## Level-two heading
+## Add READ ME
 
