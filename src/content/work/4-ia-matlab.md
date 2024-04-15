@@ -8,7 +8,7 @@ description: |
 tags:
   - IA
   - Dev
-  - User Testing
+  - Data base
 ---
 ### Objective:
 As part of a module attended at Polytech Nancy and following the completion of the Matlab proficiency certificate, we had the opportunity to apply linear algebra concepts combined with image processing notions to perform facial recognition in Matlab.

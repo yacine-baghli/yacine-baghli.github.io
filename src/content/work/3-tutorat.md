@@ -6,9 +6,8 @@ img_alt: Maths
 description: |
   Je donne des cours à des bac+2!
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Teaching
+  - Communication
 ---
 ## Math tutoring
 I tutor second-year students in the integrated preparatory cycle (PeiP) at Polytech Nancy, focusing on advanced mathematics topics such as convolutions, generalized integrals, and Fourier and Laplace transforms.

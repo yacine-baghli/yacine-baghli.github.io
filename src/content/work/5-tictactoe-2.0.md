@@ -6,9 +6,11 @@ img_alt: TicTacToe Image
 description: |
   We've created a 2.0 version of TicTacToe for network play!
 tags:
-  - Design
+  - Network
   - Dev
   - User Testing
+  - Design
+
 ---
 
 ### Project: TicTacToe 2.0
