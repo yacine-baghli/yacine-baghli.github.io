@@ -24,6 +24,7 @@ My project is divided into two main parts. The first part involves designing a J
 
 Additionally, the application allows the vehicle's consumption data to be sent to the EMT website via websockets. These data are retrieved directly from the phone's USB-C port using optical fiber communication to avoid any data loss and ensure transmission speed. The data received on the website will be used by the team to strategize and simulate different runs, as the application also provides the exact position to the website during the race. The Joule meter itself is based on an ESP32 Lolin Lite with exceptional computational speed and an external ADC allowing precise measurement of battery voltage and current passing through it. Based on this data, the vehicle's power consumption is calculated.
 
+### Conclusion
 This project has allowed me to showcase my knowledge in electrical engineering for the data transmission part and design of the Joule meter, as well as my skills in Android application development and networking, which ensured the proper transmission of data to the website. Additionally, it showcased my skills in 3D design, as I also designed the dashboard mount and the printed circuit boards for the Joule meter.
 
 
