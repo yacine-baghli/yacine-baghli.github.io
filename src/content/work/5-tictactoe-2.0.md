@@ -15,11 +15,11 @@ tags:
 
 The objective was to create a networked game allowing two players to connect to a server and play matches, exchange messages, and use commands.
 
-## Technical Choices:
+### Technical Choices:
 
 In this project, we preferred to use Cloud gaming technology as it would allow different users to play games that may require significant computational power without needing machines equipped with such power but only a stable internet connection.
 
-## Features of TicTacToe 2.0:
+### Features of TicTacToe 2.0:
 
 - Addition of a grid along with certain messages explaining the game's progress.
 
@@ -45,7 +45,7 @@ In this project, we preferred to use Cloud gaming technology as it would allow d
 
 - Added weak and powerful commands.
 
-## Match Progression:
+### Match Progression:
 At the start of the match, the first player must choose whether to play Solo(1) or Duo(2) via a menu.
 
 #### Solo Match

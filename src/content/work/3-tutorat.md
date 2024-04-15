@@ -1,5 +1,5 @@
 ---
-title: Math tutoring Polytech Nancy
+title: Math Tutoring Polytech Nancy
 publishDate: 2020-03-02 00:00:00
 img: /assets/maths.jpg
 img_alt: Maths
