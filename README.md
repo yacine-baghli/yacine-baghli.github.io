@@ -1,31 +1,26 @@
-# Astro Starter Kit: Portfolio
+---
 
-```sh
-npm create astro@latest -- --template portfolio
-```
+# Personal Website Portfolio
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+Welcome to my personal website portfolio! This website serves as a showcase of my projects, skills, and experiences. I've created this portfolio using Astro, allowing me to showcase my work in an organized and visually appealing manner.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## About This Website
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+This website is built using Astro, a modern framework for building fast, modern websites with JavaScript. It provides a seamless and interactive browsing experience. The website features a clean and modern design, making it easy for visitors to navigate and explore my projects and achievements.
 
-## 🧞 Commands
+## What You'll Find
 
-All commands are run from the root of the project, from a terminal:
+- **Projects Showcase**: Browse through a curated selection of my projects, ranging from web development, machine learning, robotics, etc.
+- **Skills and Expertise**: Learn more about my skills, expertise, and areas of interest.
+- **Experience**: Explore my professional experience, education, and certifications.
+- **Contact Information**: Connect with me through various channels, including email and social media.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## How to Use
 
-## 👀 Want to learn more?
+Feel free to explore the different sections of this website to learn more about me and my work. If you have any questions or would like to collaborate on a project, don't hesitate to reach out through the contact information provided.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-"# yacine-baghli.github.io" 
+## Get Started
+
+Ready to explore? Visit [My Website](https://yacine-baghli.github.io) to start browsing my projects and learn more about me!
+
+---
