@@ -2,8 +2,6 @@
 
 # Personal Website Portfolio
 
-Welcome to my personal website portfolio! This website serves as a showcase of my projects, skills, and experiences. I've created this portfolio using Astro, allowing me to showcase my work in an organized and visually appealing manner.
-
 ## About This Website
 
 This website is built using Astro, a modern framework for building fast, modern websites with JavaScript. It provides a seamless and interactive browsing experience. The website features a clean and modern design, making it easy for visitors to navigate and explore my projects and achievements.
