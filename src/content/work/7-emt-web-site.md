@@ -10,7 +10,7 @@ tags:
   - Network
   - Design
 ---
-### The Eco Shell Marathon
+## The Eco Shell Marathon
 This year, I am a member of the Eco Motion Team, which participates annually in the Shell Marathon organized by the company of the same name. This demanding European competition challenges students to design, build, and drive ultra-efficient vehicles in terms of energy consumption. Polytech Nancy has been participating in this event for 25 years, with over 400 engineering students having taken part, often breaking numerous records. This year, I had the opportunity to join the team as a member of the continuous improvement group. My project involved designing and optimizing the dashboard of our competition vehicle, the "PolyWatt."
 
 ### My Project
