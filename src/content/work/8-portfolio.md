@@ -26,8 +26,4 @@ This website is built using Astro, a modern framework for building fast, modern 
 ## How to Use
 
 Feel free to explore the different sections of this website to learn more about me and my work. If you have any questions or would like to collaborate on a project, don't hesitate to reach out through the contact information provided.
-
-## Get Started
-
-Ready to explore? Visit [My Website](https://yacine-baghli.github.io) to start browsing my projects and learn more about me!
 ---
