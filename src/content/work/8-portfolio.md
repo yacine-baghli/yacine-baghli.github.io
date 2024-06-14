@@ -30,5 +30,4 @@ Feel free to explore the different sections of this website to learn more about 
 ## Get Started
 
 Ready to explore? Visit [My Website](https://yacine-baghli.github.io) to start browsing my projects and learn more about me!
-
 ---
