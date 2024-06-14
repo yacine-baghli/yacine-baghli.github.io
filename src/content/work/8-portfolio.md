@@ -18,10 +18,10 @@ This website is built using Astro, a modern framework for building fast, modern 
 
 ## What You'll Find
 
-- **Projects Showcase**: Browse through a curated selection of my projects, ranging from web development, machine learning, robotics, etc.
-- **Skills and Expertise**: Learn more about my skills, expertise, and areas of interest.
-- **Experience**: Explore my professional experience, education, and certifications.
-- **Contact Information**: Connect with me through various channels, including email and social media.
+- Projects Showcase: Browse through a curated selection of my projects, ranging from web development, machine learning, robotics, etc.
+- Skills and Expertise: Learn more about my skills, expertise, and areas of interest.
+- Experience: Explore my professional experience, education, and certifications.
+- Contact Information: Connect with me through various channels, including email and social media.
 
 ## How to Use
 
