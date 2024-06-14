@@ -1,7 +1,7 @@
 ---
 title: Eco Motion Team Web Site
 publishDate: 2020-03-02 00:00:00
-img: /assets/emt.png
+img: /assets/site-web.jpg
 img_alt: EMT
 description: |
   I developped in full stack a Web Site optimize future tests and tracking our progress !
