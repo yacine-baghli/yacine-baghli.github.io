@@ -1,3 +1,4 @@
+---
 title: Research Internship at the GREEN Laboratory
 publishDate: 2024-09-26 00:00:00
 img: /assets/Campus_ENSEM.jpg
